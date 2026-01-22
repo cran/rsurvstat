@@ -1,7 +1,7 @@
-bf922d1b999ea09d2305eb0d93033793 *DESCRIPTION
+2125ceb7cf9dc5a417cd5085fedd4889 *DESCRIPTION
 2677c26f472bb3b87984c4f428d9ad11 *LICENSE
 ec1a4f1a19317120124d001df892bb21 *NAMESPACE
-5b4e1c7390663cbaeb89daf46279b687 *NEWS.md
+8e4bb7829ebd082cd273893b44829002 *NEWS.md
 a58b45671746e4d18a1bdea209182b90 *R/data.R
 9d972abbb27c229459c6b71b8a9e9d44 *R/globals.R
 5592f25811748a9bec01b2afe9f720ff *R/import-standalone-df-list-df.R
@@ -9,13 +9,13 @@ a58b45671746e4d18a1bdea209182b90 *R/data.R
 9729de39b08ff6d5d3f9f33c8165d2a3 *R/survstat-backend.R
 02b27439af97efe540ff02de8639d398 *R/survstat-loader.R
 d2c353ce21d2c5474ba9985aed10ce40 *R/survstat-options.R
-02354be91a01bc3fa99194b9fc3d3e12 *R/sysdata.rda
+bd1bd0d41d9cbd798010b1316be5e7fd *R/sysdata.rda
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 1764317df6a37b07127ccfba7703a6b1 *R/worldpop.R
 dfcb7ac96fee496fb8547a43849999a1 *README.md
 697246a4c817764d3821e33fde81af2a *build/vignette.rds
 13fc213abf759e91d28755024a2d994a *data/BerlinMap.rda
-710c2a56864990c7b4a263d6c92798fc *data/CountyKey71Map.rda
+30df99c759b0b017166ba8800502ded6 *data/CountyKey71Map.rda
 48cdeec57ad17af4fa933f97c0af5ef6 *data/FedStateKey71Map.rda
 c67d23e0dd563984674249b9dea7f3d1 *data/NutsKey71Map.rda
 ce1dfde5de3dad7d912a57317e46a85b *inst/WORDLIST
