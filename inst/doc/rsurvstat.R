@@ -9,6 +9,9 @@ knitr::opts_chunk$set(
 library(rsurvstat)
 library(sf)
 
+# Disable the cache for CRAN
+rsurvstat::set_cache_settings(active=FALSE)
+
 
 ## -----------------------------------------------------------------------------
 entero = get_timeseries(
